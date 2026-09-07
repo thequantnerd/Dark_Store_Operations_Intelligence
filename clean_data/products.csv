@@ -1,14 +1,14 @@
 product_id,product_name,category,subcategory,selling_price,unit_cost,abc_class,storage_type
 P0001,FreshCo Fruits 001,Fresh Produce,Fruits,39.81,25.86,A,Ambient
 P0002,UrbanBasket Fruits 002,Fresh Produce,Fruits,47.11,24.56,A,Ambient
-P0003,PrimeFoods Fruits 003,FRESH PRODUCE,Fruits,45.7,26.0,A,Ambient
+P0003,PrimeFoods Fruits 003,Fresh Produce,Fruits,45.7,26.0,A,Ambient
 P0004,FreshCo Vegetables 004,Fresh Produce,Vegetables,47.94,28.8,A,Ambient
 P0005,UrbanBasket Vegetables 005,Fresh Produce,Vegetables,78.89,45.77,A,Ambient
 P0006,FreshCo Vegetables 006,Fresh Produce,Vegetables,33.97,24.3,A,Ambient
 P0007,NatureNest Milk & Cream 007,Dairy,Milk & Cream,95.26,52.3,A,Frozen
 P0008,ValueMart Milk & Cream 008,Dairy,Milk & Cream,28.73,18.8,B,Ambient
 P0009,PrimeFoods Milk & Cream 009,Dairy,Milk & Cream,38.06,27.28,A,Chilled
-P0010,FreshCo Cheese 010,DAIRY,Cheese,101.78,55.99,A,Chilled
+P0010,FreshCo Cheese 010,Dairy,Cheese,101.78,55.99,A,Chilled
 P0011,PrimeFoods Cheese 011,Dairy,Cheese,45.27,23.69,A,Ambient
 P0012,ValueMart Cheese 012,Dairy,Cheese,80.31,44.56,B,Ambient
 P0013,ValueMart Yogurt 013,Dairy,Yogurt,38.38,24.11,B,Ambient
@@ -20,16 +20,16 @@ P0018,GoodDay Soft Drinks 018,Beverages,Soft Drinks,89.68,51.73,A,Ambient
 P0019,PrimeFoods Juices 019,Beverages,Juices,58.43,38.71,A,Ambient
 P0020,PrimeFoods Juices 020,Beverages,Juices,54.21,32.16,B,Chilled
 P0021,UrbanBasket Juices 021,Beverages,Juices,65.9,39.11,A,Ambient
-P0022,NatureNest Water 022,BEVERAGES,Water,23.36,16.72,A,Frozen
+P0022,NatureNest Water 022,Beverages,Water,23.36,16.72,A,Frozen
 P0023,FreshCo Water 023,Beverages,Water,22.84,14.51,A,Ambient
 P0024,GoodDay Water 024,Beverages,Water,37.29,23.11,B,Chilled
 P0025,NatureNest Tea & Coffee 025,Beverages,Tea & Coffee,24.47,14.54,A,Frozen
 P0026,FreshCo Tea & Coffee 026,Beverages,Tea & Coffee,48.94,30.86,B,Frozen
-P0027,ValueMart Tea & Coffee 027,BEVERAGES,Tea & Coffee,49.51,28.4,A,Ambient
+P0027,ValueMart Tea & Coffee 027,Beverages,Tea & Coffee,49.51,28.4,A,Ambient
 P0028,DailyChoice Chips 028,Snacks,Chips,44.09,31.18,B,Ambient
 P0029,NatureNest Chips 029,Snacks,Chips,60.58,35.85,A,Ambient
 P0030,DailyChoice Chips 030,Snacks,Chips,37.94,25.35,B,Chilled
-P0031,ValueMart Biscuits 031,SNACKS,Biscuits,29.37,17.74,A,Ambient
+P0031,ValueMart Biscuits 031,Snacks,Biscuits,29.37,17.74,A,Ambient
 P0032,PrimeFoods Biscuits 032,Snacks,Biscuits,35.8,22.28,A,Chilled
 P0033,NatureNest Biscuits 033,Snacks,Biscuits,99.37,69.36,A,Ambient
 P0034,DailyChoice Namkeen 034,Snacks,Namkeen,85.17,51.76,B,Ambient
@@ -46,31 +46,31 @@ P0044,GoodDay Flour 044,Staples,Flour,125.17,67.99,A,Ambient
 P0045,PrimeFoods Flour 045,Staples,Flour,66.67,34.9,B,Chilled
 P0046,PrimeFoods Pulses 046,Staples,Pulses,77.37,42.91,A,Ambient
 P0047,DailyChoice Pulses 047,Staples,Pulses,109.33,62.56,A,Frozen
-P0048,FreshCo Pulses 048,STAPLES,Pulses,99.03,62.18,B,Ambient
+P0048,FreshCo Pulses 048,Staples,Pulses,99.03,62.18,B,Ambient
 P0049,PrimeFoods Cooking Oil 049,Staples,Cooking Oil,63.74,40.48,A,Ambient
 P0050,FreshCo Cooking Oil 050,Staples,Cooking Oil,82.83,56.51,B,Ambient
-P0051,UrbanBasket Cooking Oil 051,STAPLES,Cooking Oil,68.42,38.26,A,Ambient
+P0051,UrbanBasket Cooking Oil 051,Staples,Cooking Oil,68.42,38.26,A,Ambient
 P0052,DailyChoice Hair Care 052,Personal Care,Hair Care,88.0,46.45,B,Ambient
 P0053,DailyChoice Hair Care 053,Personal Care,Hair Care,32.46,17.03,B,Ambient
 P0054,PrimeFoods Hair Care 054,Personal Care,Hair Care,110.67,72.88,A,Frozen
-P0055,GoodDay Skin Care 055,PERSONAL CARE,Skin Care,52.43,30.22,A,Chilled
+P0055,GoodDay Skin Care 055,Personal Care,Skin Care,52.43,30.22,A,Chilled
 P0056,UrbanBasket Skin Care 056,Personal Care,Skin Care,43.48,31.22,A,Ambient
 P0057,NatureNest Skin Care 057,Personal Care,Skin Care,40.4,25.55,A,Ambient
-P0058,ValueMart Oral Care 058,PERSONAL CARE,Oral Care,92.1,61.79,A,Frozen
+P0058,ValueMart Oral Care 058,Personal Care,Oral Care,92.1,61.79,A,Frozen
 P0059,NatureNest Oral Care 059,Personal Care,Oral Care,98.25,56.94,A,Ambient
 P0060,GoodDay Oral Care 060,Personal Care,Oral Care,55.12,38.64,A,Ambient
 P0061,GoodDay Cleaning 061,Household,Cleaning,129.09,69.49,B,Ambient
 P0062,GoodDay Cleaning 062,Household,Cleaning,88.18,59.12,B,Chilled
 P0063,ValueMart Cleaning 063,Household,Cleaning,54.3,39.05,A,Chilled
 P0064,GoodDay Laundry 064,Household,Laundry,36.46,21.52,A,Ambient
-P0065,GoodDay Laundry 065,HOUSEHOLD,Laundry,71.97,49.49,A,Ambient
+P0065,GoodDay Laundry 065,Household,Laundry,71.97,49.49,A,Ambient
 P0066,FreshCo Laundry 066,Household,Laundry,100.59,68.84,B,Ambient
 P0067,PrimeFoods Kitchen 067,Household,Kitchen,28.46,16.15,C,Ambient
 P0068,PrimeFoods Kitchen 068,Household,Kitchen,28.98,17.25,A,Chilled
 P0069,DailyChoice Kitchen 069,Household,Kitchen,21.83,12.79,A,Ambient
 P0070,DailyChoice Frozen Snacks 070,Frozen,Frozen Snacks,110.67,67.92,A,Ambient
-P0071,FreshCo Frozen Snacks 071,FROZEN,Frozen Snacks,63.13,41.43,A,Ambient
-P0072,PrimeFoods Frozen Snacks 072,FROZEN,Frozen Snacks,37.63,21.72,C,Ambient
+P0071,FreshCo Frozen Snacks 071,Frozen,Frozen Snacks,63.13,41.43,A,Ambient
+P0072,PrimeFoods Frozen Snacks 072,Frozen,Frozen Snacks,37.63,21.72,C,Ambient
 P0073,UrbanBasket Frozen Foods 073,Frozen,Frozen Foods,56.34,39.65,A,Chilled
 P0074,FreshCo Frozen Foods 074,Frozen,Frozen Foods,84.99,53.09,B,Chilled
 P0075,NatureNest Frozen Foods 075,Frozen,Frozen Foods,143.87,85.87,B,Frozen

@@ -853,7 +853,6 @@ cleaned_datasets['customers']['city'] = (
     .fillna('Unknown')
 )
 
-
 # ============================================================
 # 4. CLEAN INVENTORY SNAPSHOTS
 # ============================================================
@@ -953,6 +952,35 @@ print(
 cleaned_datasets['inventory_snapshots'] = (
     cleaned_datasets['inventory_snapshots']
     [~restock_after_snapshot]
+)
+
+# ------------------------------------------------------------
+# 4.5 Standardize product category names
+# ------------------------------------------------------------
+
+# Check the distinct category values before standardization.
+# This helps identify inconsistent capitalization or formatting.
+print(
+    "\nProduct categories before cleaning:"
+)
+
+print(
+    cleaned_datasets['products']['category']
+    .value_counts()
+)
+
+cleaned_datasets['products']['category'] = (
+    cleaned_datasets['products']['category']
+    .str.title()
+)
+
+print(
+    "\nProduct categories after cleaning:"
+)
+
+print(
+    cleaned_datasets['products']['category']
+    .value_counts()
 )
 
 
